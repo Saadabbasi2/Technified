@@ -1,0 +1,94 @@
+# Operating System Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Linux
+*~
+.directory
+
+# IDE and Editor Files
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# JetBrains IDEs (WebStorm, IntelliJ, etc.)
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Atom
+.atom/
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+.\#*
+
+# Node.js (if using build tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Build and Distribution
+dist/
+build/
+*.min.js
+*.min.css
+
+# Logs
+logs/
+*.log
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+*.bak
+*.cache
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Compressed Files
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Backup Files
+*.backup
+*.old
+
+# Testing
+coverage/
+.nyc_output/
+
+# Misc
+.sass-cache/
+.grunt/
+.lock-wscript
